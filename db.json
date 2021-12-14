@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is gonna be a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's a stream",
+      "id": 2
+    },
+    {
+      "title": "Refactoring the stream",
+      "description": "CSGO stream",
+      "id": 4
+    },
+    {
+      "title": "Valorant",
+      "description": "Let's get this bread!!!",
+      "userId": "117581492598941151924",
+      "id": 5
+    }
+  ]
+}
